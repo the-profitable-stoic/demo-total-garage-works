@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-total-garage-works.dream-surge.com/sitemap-index.xml

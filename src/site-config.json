@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "Total Garage Works",
+    "phone": "+19802640529",
+    "category": "garage door repair",
+    "city": "Charlotte",
+    "state": "NC"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Charlotte's Garage Door Experts",
+      "heroSubline": "Reliable repairs and fast service. We keep your garage door working smoothly, guaranteed.",
+      "aboutTitle": "Your Trusted Garage Door Partner in Charlotte",
+      "aboutText": [
+        "Total Garage Works started with a simple goal: to provide honest and dependable garage door services throughout the Charlotte metro area. We're a locally owned and operated company built on integrity and a commitment to quality.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the options clearly, and deliver lasting repairs that stand up to Charlotte's changing seasons. We use premium parts and proven techniques to ensure your complete satisfaction.",
+        "We're proud to be a part of the Charlotte community. We believe in giving back and supporting local initiatives. When you choose Total Garage Works, you're supporting a business that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand garage door issues can be urgent. Expect prompt and reliable service, often same-day."
+        },
+        {
+          "title": "Expert Technicians",
+          "description": "Our team is highly trained and experienced in diagnosing and repairing all types of garage door problems."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear and honest estimates before any work begins."
+        },
+        {
+          "title": "Quality Parts",
+          "description": "We use only premium, durable parts that are built to last, ensuring long-term reliability."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Help?",
+      "ctaSubline": "Call us today for fast, reliable service in Charlotte and surrounding areas."
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Fast and reliable spring repair to get your door operating smoothly again.",
+        "description": "Garage door springs are under immense tension, making their repair a dangerous task for anyone without the proper training and equipment. Total Garage Works specializes in the safe and efficient repair and replacement of both torsion and extension springs. We understand the urgency of a broken spring, which is why we offer rapid response times throughout Charlotte, from Dilworth to Ballantyne. Our technicians arrive prepared with a full range of high-quality springs to match your door's specific requirements. We'll assess the situation, explain your options, and perform the repair quickly and correctly, ensuring your garage door operates smoothly and safely. We also inspect all related hardware for wear and tear, preventing future issues and maximizing the lifespan of your garage door system. Don't risk injury – call the professionals at Total Garage Works for expert spring repair.",
+        "process": [
+          "Step 1: Thorough inspection of the broken spring and related components.",
+          "Step 2: Safe removal of the damaged spring using specialized tools.",
+          "Step 3: Installation of a new, high-quality spring matched to your door's specifications.",
+          "Step 4: Complete safety check and adjustment to ensure smooth and balanced operation."
+        ],
+        "benefits": [
+          "Extended garage door lifespan",
+          "Reduced risk of accidents",
+          "Smooth and quiet operation",
+          "Peace of mind knowing the job is done right"
+        ],
+        "faq": [
+          {
+            "question": "How long does it take to replace a garage door spring?",
+            "answer": "Typically, spring replacement takes between 45 minutes to an hour, depending on the complexity of the system. We arrive prepared to handle most situations quickly."
+          },
+          {
+            "question": "What type of spring is best for my garage door?",
+            "answer": "The best type of spring depends on the weight and size of your door. Our technicians will assess your door and recommend the appropriate spring type for optimal performance and longevity."
+          },
+          {
+            "question": "How can I tell if my garage door spring is about to break?",
+            "answer": "Warning signs include visible rust, gaps in the spring coils, and a garage door that is difficult to open or close. If you notice any of these signs, call us for an inspection."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Expert repair and replacement of all major garage door opener brands.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience, especially during Charlotte's frequent thunderstorms or when you're rushing to work. Total Garage Works provides comprehensive garage door opener repair services, handling everything from minor adjustments to complete replacements. We service all major brands, including Chamberlain, LiftMaster, Genie, and more. Our technicians are skilled at diagnosing a wide range of opener problems, such as remote control issues, motor failures, and sensor malfunctions. We'll troubleshoot the problem efficiently and provide you with a clear explanation of the necessary repairs. If a replacement is required, we offer a wide selection of high-quality openers with advanced features like smartphone control and battery backup. Living in an older home in Myers Park or a newer build in South Charlotte? We've seen it all. Trust us to get your garage door opener working reliably again.",
+        "process": [
+          "Step 1: Thorough inspection of the opener unit, remote controls, and safety sensors.",
+          "Step 2: Diagnosis of the problem and explanation of repair options.",
+          "Step 3: Repair or replacement of faulty components using quality parts.",
+          "Step 4: Testing and adjustment of the opener to ensure smooth and safe operation."
+        ],
+        "benefits": [
+          "Restored convenience and security",
+          "Extended lifespan of your garage door opener",
+          "Improved safety and reliability",
+          "Access to advanced opener features"
+        ],
+        "faq": [
+          {
+            "question": "My garage door opener is making a loud grinding noise. What could it be?",
+            "answer": "Grinding noises often indicate a problem with the motor or gears. It's best to have a technician inspect the opener to determine the cause and prevent further damage."
+          },
+          {
+            "question": "Why isn't my remote control working?",
+            "answer": "Remote control issues can be caused by dead batteries, a faulty remote, or a problem with the opener's receiver. We can diagnose and repair or replace the remote as needed."
+          },
+          {
+            "question": "How often should I have my garage door opener serviced?",
+            "answer": "We recommend having your garage door opener serviced annually to ensure it's operating safely and efficiently. Regular maintenance can prevent costly repairs down the road."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Professional cable repair and replacement for safe and reliable operation.",
+        "description": "Garage door cables play a critical role in lifting and lowering your door safely. If a cable breaks or becomes frayed, it can create a dangerous situation. Total Garage Works provides expert cable repair and replacement services throughout Charlotte. We understand the importance of using high-quality cables that are properly sized for your door. Our technicians are trained to safely handle cable repairs, ensuring that the cables are correctly installed and tensioned. We also inspect the drums and rollers for any signs of wear and tear, addressing potential problems before they lead to larger issues. Whether you're in a historic home in Dilworth or a new construction in South End, we're equipped to handle any garage door cable repair needs. Don't delay—a broken cable requires immediate attention.",
+        "process": [
+          "Step 1: Careful inspection of the cables, drums, and rollers.",
+          "Step 2: Safe removal of the damaged or broken cable.",
+          "Step 3: Installation of a new, high-quality cable matched to your door's specifications.",
+          "Step 4: Proper tensioning and adjustment of the cables to ensure balanced operation."
+        ],
+        "benefits": [
+          "Enhanced safety and security",
+          "Smooth and reliable door operation",
+          "Prevention of further damage",
+          "Extended lifespan of your garage door system"
+        ],
+        "faq": [
+          {
+            "question": "How can I tell if my garage door cable is damaged?",
+            "answer": "Signs of damage include frayed or broken strands, visible rust, and a garage door that is uneven or difficult to open. If you notice any of these signs, call us immediately."
+          },
+          {
+            "question": "Can I replace a garage door cable myself?",
+            "answer": "Replacing garage door cables can be dangerous due to the high tension involved. We strongly recommend hiring a professional to ensure the job is done safely and correctly."
+          },
+          {
+            "question": "How long do garage door cables typically last?",
+            "answer": "The lifespan of garage door cables depends on several factors, including usage, maintenance, and the quality of the cables. With proper care, they can last for several years."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-roller-replacement",
+        "name": "Garage Door Roller Replacement",
+        "shortDescription": "Quiet and smooth operation with our high-quality roller replacement service.",
+        "description": "Worn-out garage door rollers can cause excessive noise and strain on your garage door opener. Total Garage Works offers professional roller replacement services throughout Charlotte, using high-quality rollers that provide smooth and quiet operation. We offer a variety of roller types, including nylon, steel, and polyurethane, to suit your specific needs and preferences. Our technicians will carefully remove the old rollers and install the new ones, ensuring proper alignment and lubrication. Replacing worn rollers can significantly reduce noise and extend the lifespan of your garage door opener. If your garage door is sounding like a freight train every time it opens, give us a call. We service all of Charlotte's neighborhoods, from the historic homes of Myers Park to the modern condos of South End.",
+        "process": [
+          "Step 1: Inspection of the rollers and tracks.",
+          "Step 2: Removal of the old, worn-out rollers.",
+          "Step 3: Installation of new, high-quality rollers.",
+          "Step 4: Lubrication and alignment of the rollers to ensure smooth operation."
+        ],
+        "benefits": [
+          "Quieter operation",
+          "Reduced strain on the garage door opener",
+          "Extended lifespan of the garage door system",
+          "Smoother door movement"
+        ],
+        "faq": [
+          {
+            "question": "What type of rollers are best for my garage door?",
+            "answer": "Nylon rollers are typically quieter than steel rollers, while polyurethane rollers offer a good balance of durability and noise reduction. We can help you choose the best option for your needs."
+          },
+          {
+            "question": "How often should I replace my garage door rollers?",
+            "answer": "We recommend replacing your garage door rollers every 5-7 years, or sooner if you notice excessive noise or wear."
+          },
+          {
+            "question": "Can I replace garage door rollers myself?",
+            "answer": "While it's possible to replace garage door rollers yourself, it's important to use caution and follow safety guidelines. If you're not comfortable with the process, it's best to hire a professional."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Restore your garage door's appearance with our expert panel replacement service.",
+        "description": "Damaged garage door panels can detract from your home's curb appeal and compromise its security. Total Garage Works provides professional garage door panel replacement services throughout Charlotte. Whether your panel is dented, cracked, or rusted, we can match it with a new panel that seamlessly integrates with your existing door. We work with all major garage door brands and styles, ensuring a perfect fit and finish. Our technicians will carefully remove the damaged panel and install the new one, ensuring proper alignment and insulation. Don't let a damaged panel ruin the look of your home – call Total Garage Works for expert panel replacement. We understand the unique challenges of Charlotte's climate, including the red clay soil that can sometimes shift foundations and affect garage door alignment.",
+        "process": [
+          "Step 1: Assessment of the damage to the garage door panel.",
+          "Step 2: Sourcing a replacement panel that matches the existing door.",
+          "Step 3: Careful removal of the damaged panel.",
+          "Step 4: Installation of the new panel, ensuring proper alignment and insulation."
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Enhanced security",
+          "Restored insulation",
+          "Extended lifespan of the garage door"
+        ],
+        "faq": [
+          {
+            "question": "Can I replace just one panel of my garage door?",
+            "answer": "Yes, in most cases we can replace just the damaged panel without replacing the entire door."
+          },
+          {
+            "question": "How can I prevent damage to my garage door panels?",
+            "answer": "Regular maintenance, such as lubricating the hinges and rollers, can help prevent damage. Also, be careful when parking your car near the garage door."
+          },
+          {
+            "question": "How long does it take to replace a garage door panel?",
+            "answer": "Panel replacement typically takes between 1-2 hours, depending on the complexity of the job."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-weather-sealing",
+        "name": "Garage Door Weather Sealing",
+        "shortDescription": "Keep out the elements with our professional weather sealing services.",
+        "description": "Gaps around your garage door can let in drafts, pests, and moisture, increasing your energy bills and creating an uncomfortable environment. Total Garage Works provides professional garage door weather sealing services throughout Charlotte. We install high-quality weather stripping around the perimeter of your door, creating a tight seal that keeps out the elements. We also inspect and replace the bottom seal, which is especially vulnerable to damage from the concrete floor. Our weather sealing services can help you save money on energy costs and create a more comfortable garage environment. With Charlotte's hot summers and occasional ice storms, proper weather sealing is essential for protecting your garage and belongings. We serve all areas of Charlotte, from the older ranch homes to the newer developments.",
+        "process": [
+          "Step 1: Inspection of the existing weather stripping and bottom seal.",
+          "Step 2: Removal of the old, worn-out weather stripping and seal.",
+          "Step 3: Installation of new, high-quality weather stripping and bottom seal.",
+          "Step 4: Ensuring a tight and complete seal around the entire perimeter of the door."
+        ],
+        "benefits": [
+          "Reduced energy bills",
+          "Protection from drafts, pests, and moisture",
+          "More comfortable garage environment",
+          "Extended lifespan of the garage door"
+        ],
+        "faq": [
+          {
+            "question": "How often should I replace my garage door weather stripping?",
+            "answer": "We recommend replacing your garage door weather stripping every 2-3 years, or sooner if you notice signs of damage or wear."
+          },
+          {
+            "question": "What are the benefits of weather sealing my garage door?",
+            "answer": "Weather sealing helps to keep out drafts, pests, and moisture, which can save you money on energy bills and create a more comfortable garage environment."
+          },
+          {
+            "question": "Can I install garage door weather stripping myself?",
+            "answer": "While it's possible to install garage door weather stripping yourself, it's important to use the correct type of weather stripping and follow the instructions carefully. If you're not comfortable with the process, it's best to hire a professional."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Huntersville",
+        "slug": "huntersville-nc",
+        "state": "NC",
+        "content": "Total Garage Works is proud to offer garage door repair and installation services to the growing community of Huntersville, North Carolina. Known for its beautiful neighborhoods developed primarily in the 1990s and 2000s, Huntersville boasts a diverse range of homes, each with its unique garage door needs. From simple repairs to complete replacements, our experienced technicians are equipped to handle any garage door issue you may encounter.\n\nWe understand that the hot, humid summers in Huntersville can take a toll on your garage door, leading to issues like warping, cracking, and spring failures. That's why we offer a comprehensive range of services designed to keep your garage door functioning smoothly year-round. Whether you need a routine maintenance check, emergency repair, or a brand-new garage door installation, Total Garage Works is here to help.",
+        "localContext": "Huntersville's rapid growth and development in recent decades have created a demand for reliable and efficient garage door services to maintain the functionality and curb appeal of its many suburban homes.",
+        "nearbyAreas": [
+          "Cornelius",
+          "Davidson",
+          "Mooresville"
+        ]
+      },
+      {
+        "city": "Concord",
+        "slug": "concord-nc",
+        "state": "NC",
+        "content": "Total Garage Works provides expert garage door solutions to homeowners in Concord, North Carolina. Concord is characterized by its established family homes, many of which were built in the 1980s and 1990s. We understand the specific needs of these homes and offer tailored services to address any garage door issue.\n\nThe climate in Concord, with its hot and humid summers, can impact garage door performance. We are experienced in dealing with weather-related problems such as wood rot, metal corrosion, and spring fatigue. Our team is dedicated to providing prompt and reliable service to ensure your garage door operates safely and efficiently.",
+        "localContext": "Concord's mix of established neighborhoods and growing commercial areas creates a diverse need for garage door services, from residential repairs to commercial installations.",
+        "nearbyAreas": [
+          "Kannapolis",
+          "Harrisburg",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Matthews",
+        "slug": "matthews-nc",
+        "state": "NC",
+        "content": "Total Garage Works is dedicated to serving the residents of Matthews, North Carolina, with top-quality garage door repair and installation services. Matthews is known for its charming, established suburbs, with many homes dating back to the 1970s and 1980s. These homes often have unique garage door styles and require specialized maintenance and repair.\n\nOur team understands the specific challenges posed by the hot and humid summers in Matthews. We offer a full range of services to combat the effects of the weather on your garage door, including weather stripping replacement, spring repair, and opener maintenance. Whether you need a quick fix or a complete garage door overhaul, Total Garage Works is here to provide reliable and affordable solutions.",
+        "localContext": "Matthews's long-standing residential areas require experienced garage door technicians who understand the unique needs of older homes and their garage door systems.",
+        "nearbyAreas": [
+          "Mint Hill",
+          "Weddington",
+          "Stallings"
+        ]
+      },
+      {
+        "city": "Fort Mill",
+        "slug": "fort-mill-nc",
+        "state": "NC",
+        "content": "Total Garage Works proudly serves the rapidly growing community of Fort Mill, South Carolina, with professional garage door services. Fort Mill is characterized by its newer planned communities, many built in the 2000s and 2020s. These modern homes often feature advanced garage door systems that require specialized knowledge and expertise.\n\nWe understand that the hot and humid climate in Fort Mill can affect the performance and lifespan of your garage door. That's why we offer a comprehensive range of services designed to protect your investment and keep your garage door operating smoothly. From routine maintenance to emergency repairs, Total Garage Works is committed to providing prompt, reliable, and affordable service to the residents of Fort Mill.",
+        "localContext": "Fort Mill's new construction and planned communities demand modern garage door solutions and expert technicians familiar with the latest technologies.",
+        "nearbyAreas": [
+          "Tega Cay",
+          "Pineville",
+          "Indian Land"
+        ]
+      },
+      {
+        "city": "Gastonia",
+        "slug": "gastonia-nc",
+        "state": "NC",
+        "content": "Total Garage Works is committed to providing reliable garage door services to the residents of Gastonia, North Carolina. Gastonia is known for its established neighborhoods, with many homes dating back to the 1960s and 1970s. These homes often feature traditional garage door styles that require specialized maintenance and repair.\n\nOur team understands the challenges posed by the hot and humid summers in Gastonia, which can cause garage doors to warp, crack, and malfunction. We offer a full range of services to address these issues, including spring replacement, opener repair, and weather stripping installation. Whether you need a quick fix or a complete garage door replacement, Total Garage Works is here to provide affordable and reliable solutions.",
+        "localContext": "Gastonia's older housing stock requires experienced garage door technicians who are familiar with the maintenance and repair of traditional garage door systems.",
+        "nearbyAreas": [
+          "Belmont",
+          "Mount Holly",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Pineville",
+        "slug": "pineville-nc",
+        "state": "NC",
+        "content": "Total Garage Works is pleased to offer comprehensive garage door services to the residents of Pineville, North Carolina. Pineville is a thriving community with a mix of residential and commercial properties, creating a diverse need for garage door solutions. Whether you own a home or a business in Pineville, we have the expertise to meet your needs.\n\nWe understand that the hot and humid summers in Pineville can take a toll on your garage door, leading to issues such as rust, warping, and spring failure. That's why we offer a full range of services designed to keep your garage door operating smoothly and efficiently. From routine maintenance to emergency repairs, Total Garage Works is here to provide prompt, reliable, and affordable service.",
+        "localContext": "Pineville's blend of residential and commercial properties requires a versatile garage door service provider capable of handling a wide range of needs.",
+        "nearbyAreas": [
+          "Charlotte",
+          "Matthews",
+          "Fort Mill"
+        ]
+      },
+      {
+        "city": "Belmont",
+        "slug": "belmont-nc",
+        "state": "NC",
+        "content": "Total Garage Works is proud to serve the community of Belmont, North Carolina, with top-quality garage door services. Belmont is a charming town with a rich history and a mix of older and newer homes. We understand the unique garage door needs of Belmont residents and offer tailored solutions to meet those needs.\n\nOur team is experienced in dealing with the challenges posed by the hot and humid climate in Belmont, which can cause garage doors to deteriorate over time. We offer a comprehensive range of services to combat these effects, including weather stripping replacement, spring repair, and opener maintenance. Whether you need a quick fix or a complete garage door overhaul, Total Garage Works is here to provide reliable and affordable solutions.",
+        "localContext": "Belmont's mix of historic homes and new developments requires a garage door service provider with a broad range of expertise and experience.",
+        "nearbyAreas": [
+          "Mount Holly",
+          "Gastonia",
+          "Clover (SC)"
+        ]
+      },
+      {
+        "city": "Harrisburg",
+        "slug": "harrisburg-nc",
+        "state": "NC",
+        "content": "Total Garage Works is dedicated to providing the residents of Harrisburg, North Carolina with top-notch garage door services. Harrisburg is a rapidly growing town with many new developments and family-friendly neighborhoods. We understand the importance of having a reliable and functional garage door for the safety and convenience of your family.\n\nWe know that the hot and humid summers in Harrisburg can cause problems with garage doors, such as warping, sticking, and spring failure. That's why we offer a full range of services to address these issues, including lubrication, weather stripping replacement, and spring replacement. Total Garage Works is here to help you keep your garage door in top condition.",
+        "localContext": "Harrisburg's rapid growth and focus on family-friendly living create a high demand for reliable and safe garage door services.",
+        "nearbyAreas": [
+          "Concord",
+          "Charlotte",
+          "Midland"
+        ]
+      },
+      {
+        "city": "Weddington",
+        "slug": "weddington-nc",
+        "state": "NC",
+        "content": "Total Garage Works is pleased to offer professional garage door repair and installation services to the residents of Weddington, North Carolina. Weddington is known for its spacious properties and upscale homes, many of which feature custom garage doors. We understand the importance of maintaining the beauty and functionality of these garage doors.\n\nOur team is experienced in working with a variety of garage door styles and materials, and we offer a full range of services to meet your specific needs. Whether you need a minor repair or a complete garage door replacement, Total Garage Works is here to provide prompt, reliable, and affordable service.",
+        "localContext": "Weddington's upscale homes and emphasis on property value create a demand for high-quality garage door services and aesthetically pleasing designs.",
+        "nearbyAreas": [
+          "Matthews",
+          "Marvin",
+          "Waxhaw"
+        ]
+      },
+      {
+        "city": "Cornelius",
+        "slug": "cornelius-nc",
+        "state": "NC",
+        "content": "Total Garage Works is happy to serve the residents of Cornelius, North Carolina. Cornelius is located on the shores of Lake Norman, and is known for its beautiful waterfront homes. Many of these homes need a garage door that can withstand the elements and still look great.\n\nWe offer a wide range of garage door services in Cornelius, including repair, replacement, and installation. We also offer 24/7 emergency service, so you can be sure that we'll be there when you need us most.",
+        "localContext": "Cornelius' proximity to Lake Norman means many homes need garage doors that can withstand moisture and temperature changes.",
+        "nearbyAreas": [
+          "Huntersville",
+          "Davidson",
+          "Mooresville"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Total Garage Works was fantastic! Our garage door spring broke on a Saturday morning, and they were able to come out within a couple of hours. The technician, Mike, was professional, efficient, and explained everything clearly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David M.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "Our garage door opener stopped working after a power surge. Total Garage Works came out and quickly diagnosed the problem. They were able to repair the opener instead of replacing it, which saved us money. Good service!",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Garage Door Roller Replacement",
+        "text": "Our garage door was making a terrible noise every time it opened and closed. Total Garage Works replaced the rollers, and now it's so quiet! The technician was friendly and professional. Great job!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "I had a broken garage door cable and needed it fixed ASAP. Total Garage Works responded quickly and had my garage door working again within an hour. Excellent service and reasonable prices.",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 4,
+        "service": "Garage Door Panel Replacement",
+        "text": "A tree branch fell and damaged a panel on my garage door. Total Garage Works was able to match the panel and replace it quickly. The door looks as good as new!",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Chris P.",
+        "rating": 5,
+        "service": "Garage Door Weather Sealing",
+        "text": "I noticed drafts coming from under my garage door, and Total Garage Works installed new weather stripping. It made a huge difference! The garage is much warmer now, and I expect to save money on my energy bill.",
+        "date": "2024-10-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Total Garage Works | Charlotte, NC",
+        "description": "Reliable garage door repair in Charlotte. Fast service, expert technicians, and upfront pricing. Call today!"
+      },
+      "about": {
+        "title": "About Total Garage Works",
+        "description": "Learn about Total Garage Works, your trusted garage door repair partner in Charlotte, NC. Locally owned and operated."
+      },
+      "services": {
+        "title": "Garage Door Services",
+        "description": "Full range of garage door repair services in Charlotte. Spring repair, opener repair, cable replacement, and more."
+      },
+      "contact": {
+        "title": "Contact Total Garage Works",
+        "description": "Contact Total Garage Works for fast and reliable garage door service in Charlotte, NC. Call us today!"
+      },
+      "reviews": {
+        "title": "Total Garage Works Reviews",
+        "description": "See what our customers are saying about Total Garage Works. Read our reviews for garage door repair in Charlotte, NC."
+      },
+      "service-areas": {
+        "title": "Service Areas",
+        "description": "Total Garage Works provides garage door repair services throughout Charlotte and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-roller-replacement": "/images/service-garage-door-roller-replacement.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "garage-door-weather-sealing": "/images/service-garage-door-weather-sealing.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-roller-replacement": {
+        "src": "/images/service-garage-door-roller-replacement.webp",
+        "srcset": "/images/service-garage-door-roller-replacement-400w.webp 400w, /images/service-garage-door-roller-replacement-800w.webp 800w, /images/service-garage-door-roller-replacement-1200w.webp 1200w, /images/service-garage-door-roller-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-weather-sealing": {
+        "src": "/images/service-garage-door-weather-sealing.webp",
+        "srcset": "/images/service-garage-door-weather-sealing-400w.webp 400w, /images/service-garage-door-weather-sealing-800w.webp 800w, /images/service-garage-door-weather-sealing-1200w.webp 1200w, /images/service-garage-door-weather-sealing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
